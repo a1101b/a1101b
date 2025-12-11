@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=a1101b&theme=onestar&no-frame=true&margin-w=10" alt="a1101b" />
-  </a>
+  <img src="http://googleusercontent.com/image_generation_content/0" alt="Hello, World of Machine Learning. Learning & Building." style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
 </p>
 
 ---
@@ -64,19 +62,7 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 </p>
 
----
-
-# 📊 GitHub Stats (Dark Mode)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a1101b&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a1101b&show_icons=true&locale=en&theme=tokyonight" />
-</p>
 
 <br><br><br><br>
 
----
 
