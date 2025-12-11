@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Hello, World of Machine Learning. Learning & Building." style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+  <img src="<p align="center">
+  <img src="https://raw.githubusercontent.com/a1101b/a1101b/19e04a045436222677e29604bf4449ffc3d43293/3409297.jpg" alt="Abstract Technology Particle Background" style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;" />
+</p>" alt="Hello, World of Machine Learning. Learning & Building." style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
 </p>
 
 ---
