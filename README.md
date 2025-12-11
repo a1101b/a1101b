@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=a1101b&label=Profile%20Views&color=blueviolet&style=flat" alt="a1101b" />
 </p>
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://raw.githubusercontent.com/a1101b/a1101b/19e04a045436222677e29604bf4449ffc3d43293/3409297.jpg" alt="Abstract Technology Particle Background" style="width: 100%; max-width: 900px; height: auto; border-radius: 8px;" />
-</p>" alt="Hello, World of Machine Learning. Learning & Building." style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
-</p>
 
 ---
 
