@@ -34,8 +34,8 @@
   <a href="https://github.com/a1101b" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-a1101b-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/adam-buick-195b9b195" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-a1101b-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/adam-buick-195b9b195" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adam%20Buick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
