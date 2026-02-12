@@ -19,7 +19,7 @@
 **Disease Prediction**
 
 ## 🤝 I’m looking for help with  
-**Full Stack Development**
+**Machine Learning**
 
 ## 📫 How to reach me  
 **adambuick02@gmail.com**
